@@ -8,8 +8,6 @@ public class CubKinematic : MonoBehaviour
 	void Start ()
 	{
 	    rb = GetComponent<Rigidbody>();
-        
-
 	}
 	
 	// Update is called once per frame
